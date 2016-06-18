@@ -1,0 +1,3 @@
+[submodule "arduino-libs-manchester"]
+	path = arduino-libs-manchester
+	url = https://github.com/tim36272/arduino-libs-manchester

@@ -13,6 +13,9 @@
 [submodule "swamp-remote"]
 	path = swamp-remote
 	url = https://github.com/tim36272/swamp-remote
-[submodule "libraries/swamp-lib"]
-	path = libraries/swamp-lib
-	url = https://github.com/tim36272/swamp-lib
+[submodule "ir-repeater-rx"]
+	path = ir-repeater-rx
+	url = https://github.com/tim36272/ir-repeater-rx
+[submodule "ir-repeater-tx"]
+	path = ir-repeater-tx
+	url = https://github.com/tim36272/ir-repeater-tx

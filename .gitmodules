@@ -1,3 +1,9 @@
 [submodule "arduino-libs-manchester"]
-	path = arduino-libs-manchester
+	path = libraries/arduino-libs-manchester
 	url = https://github.com/tim36272/arduino-libs-manchester
+[submodule "libraries/Arduino-IRremote"]
+	path = libraries/Arduino-IRremote
+	url = https://github.com/z3t0/Arduino-IRremote
+[submodule "libraries/libHomeMesh"]
+	path = libraries/libHomeMesh
+	url = https://github.com/tim36272/libHomeMesh

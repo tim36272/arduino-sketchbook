@@ -7,3 +7,9 @@
 [submodule "libraries/libHomeMesh"]
 	path = libraries/libHomeMesh
 	url = https://github.com/tim36272/libHomeMesh
+[submodule "swamp-base"]
+	path = swamp-base
+	url = https://github.com/tim36272/swamp-base
+[submodule "swamp-remote"]
+	path = swamp-remote
+	url = https://github.com/tim36272/swamp-remote
